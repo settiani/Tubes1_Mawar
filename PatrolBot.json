@@ -1,0 +1,11 @@
+{
+  "name": "PatrolBot",
+  "version": "1.0",
+  "authors": ["Tim Mawar"],
+  "description": "Bot alternatif 3 - strategi greedy patroli persegi dengan manajemen energi optimal",
+  "homepage": "",
+  "countryCodes": ["ID"],
+  "gameTypes": ["classic", "melee", "1v1"],
+  "platform": ".Net 6.0",
+  "programmingLang": "C# 9.0"
+}

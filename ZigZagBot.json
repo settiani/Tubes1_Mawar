@@ -1,0 +1,11 @@
+{
+  "name": "ZigZagBot",
+  "version": "1.0",
+  "authors": ["Tim Mawar"],
+  "description": "Bot alternatif 1 - strategi greedy zigzag menuju musuh berenergi terendah",
+  "homepage": "",
+  "countryCodes": ["ID"],
+  "gameTypes": ["classic", "melee", "1v1"],
+  "platform": ".Net 6.0",
+  "programmingLang": "C# 9.0"
+}

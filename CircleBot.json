@@ -1,0 +1,11 @@
+{
+  "name": "CircleBot",
+  "version": "1.0",
+  "authors": ["Tim Mawar"],
+  "description": "Bot yang menggunakan strategi greedy orbit untuk mengelilingi musuh pada jarak optimal",
+  "homepage": "",
+  "countryCodes": ["ID"],
+  "gameTypes": ["classic", "melee", "1v1"],
+  "platform": ".Net 6.0",
+  "programmingLang": "C# 9.0"
+}
