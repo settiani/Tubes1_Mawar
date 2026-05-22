@@ -3,9 +3,9 @@
 ## Tim
 **Nama Kelompok:** Mawar  
 **Anggota:**
-- (Nama Anggota 1)
-- (Nama Anggota 2)
-- (Nama Anggota 3)
+- (Settiani Simanjuntak | 124140055)
+- (Nur Anda Ferwita     | 124140055)
+
 
 ---
 
